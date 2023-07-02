@@ -28,17 +28,17 @@
 
 .theme-dark {
   /* Text */
-  --text-normal: #f8e1e5;
-  --header-primary: #f8e1e5;
-  --interactive-normal: #fab1bd;
-  --channels-default: #f8e1e5;
+  --text-normal: #f1f8e1;
+  --header-primary: #f1f8e1;
+  --interactive-normal: #e5fab1;
+  --channels-default: #f3f8e1;
 
-  --text-muted: #e2c1c7;
-  --interactive-muted: #ad8c91;
+  --text-muted: #dce2c1;
+  --interactive-muted: #a7ad8c;
 
-  --header-secondary: #e2c1c7;
-  --interactive-hover: #e2c1c7;
-  --interactive-active: #e2c1c7;
+  --header-secondary: #d8e2c1;
+  --interactive-hover: #d8e2c1;
+  --interactive-active: #d8e2c1;
 
   /* Background color */
   --background-primary: #5e3640;
