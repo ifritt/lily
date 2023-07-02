@@ -20,7 +20,7 @@
   /* Background (if you want an image replace it by : 
 
 --background-tertiary-alt: url("image-link"); without that => */
-  --background-tertiary-alt: #b7b8ae;
+  --background-tertiary-alt: #62635e;
 
   /* Border-radius for the whole theme */
   --border-radius: 20px;
@@ -41,11 +41,11 @@
   --interactive-active: #d8e2c1;
 
   /* Background color */
-  --background-primary: #5f5f5d;
-  --background-secondary: #474743;
-  --background-secondary-alt: #3a3a36;
-  --background-tertiary: #1f1e1b;
-  --background-floating: #1f1e1b;
+  --background-primary: #30302f;
+  --background-secondary: #252524;
+  --background-secondary-alt: #1d1d1b;
+  --background-tertiary: #1a1916;
+  --background-floating: #1a1916;
   --background-accent: #bec553;
   --channeltextarea-background: var(--background-secondary);
   --modal-background: var(--background-primary);
