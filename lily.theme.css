@@ -1794,10 +1794,10 @@
   .chatContent-3KubbW + :last-child,
   .container-2o3qEW {
     position: fixed;
-    top: 180px;
+    top: 280px;
     bottom: 120px;
-    right: 20px;
-    width: 410px;
+    right: 60px;
+    width: 320px;
     height: unset;
   }
   .tabBody-2dgbAs {
